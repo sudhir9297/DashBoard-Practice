@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DashBoard-Practice/static/css/main.6ec5b9c4.css",
-    "main.js": "/DashBoard-Practice/static/js/main.f2a34321.js",
+    "main.js": "/DashBoard-Practice/static/js/main.50472a1f.js",
     "static/media/product4.jpg": "/DashBoard-Practice/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/DashBoard-Practice/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/DashBoard-Practice/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -16,10 +16,10 @@
     "static/media/product5.jpg": "/DashBoard-Practice/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/DashBoard-Practice/index.html",
     "main.6ec5b9c4.css.map": "/DashBoard-Practice/static/css/main.6ec5b9c4.css.map",
-    "main.f2a34321.js.map": "/DashBoard-Practice/static/js/main.f2a34321.js.map"
+    "main.50472a1f.js.map": "/DashBoard-Practice/static/js/main.50472a1f.js.map"
   },
   "entrypoints": [
     "static/css/main.6ec5b9c4.css",
-    "static/js/main.f2a34321.js"
+    "static/js/main.50472a1f.js"
   ]
 }
